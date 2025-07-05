@@ -41,8 +41,6 @@ body {
 	height: 70px;
 	padding: 28px;
 	border: 3px solid yellow;
-	display: flex;
-	flex-direction: row;
 }
 .center-container-bottom {
 	display: flex;
@@ -54,6 +52,4 @@ body {
 	height: 70px;
 	padding: 28px;
 	border: 3px solid yellow;
-	display: flex;
-	flex-direction: row;
 }
